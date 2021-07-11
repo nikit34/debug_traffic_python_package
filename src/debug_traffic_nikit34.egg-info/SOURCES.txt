@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/debug_traffic/__init__.py
+src/debug_traffic/debug_mapi_ios.py
+src/debug_traffic_nikit34.egg-info/PKG-INFO
+src/debug_traffic_nikit34.egg-info/SOURCES.txt
+src/debug_traffic_nikit34.egg-info/dependency_links.txt
+src/debug_traffic_nikit34.egg-info/top_level.txt

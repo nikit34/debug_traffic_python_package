@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: debug-traffic-nikit34
+Version: 0.0.3
+Summary: Debug traffic between Android, iOS and anyone mAPI
+Home-page: https://github.com/nikit34/debug_traffic_python_package
+Author: Nikita Permyakov
+Author-email: permikov134@mail.ru
+License: UNKNOWN
+Project-URL: Example project iOS, https://github.com/nikit34/kassa-ios-ui-tests
+Project-URL: Example project Andoid, https://github.com/nikit34/kassa-android-ui-tests
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 ## Debug traffic between Android, iOS and anyone mAPI
 
 
@@ -48,3 +66,4 @@ Define user interface by template:
     ```
     Logs replication
     ```
+
